@@ -1,0 +1,17 @@
+# Lenguage to highlight: Python
+
+# Hello world test.
+
+print("Hello, world!")
+
+# Create a variable
+
+myFirstInt = 14
+myFirstString = "Hello"
+
+# Remaining tests
+
+print(int("F", 16))
+print(bool(0))
+
+goodbye = True 
